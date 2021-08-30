@@ -24,6 +24,6 @@ def main():
             print("Error")
     else:
         print("Error")
-
 if __name__ == '__main__':
     main()
+
